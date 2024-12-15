@@ -1,1 +1,8 @@
-touch style.css
+body {
+    background-color: lightblue;
+}
+
+blockquote{
+    font-style: italic;
+    color: darkgreen;
+}
